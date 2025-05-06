@@ -16,7 +16,7 @@ This package includes an Apex class that can be utilized at Flow Action to send 
   7. Create a new "Authentication Parameter"
      * The parameter name should be "apiKey" exactly
      * Enter the API key value (contact me directly to get this)
-     ![alt text](https://github.com/thedges/PDF-Form-Parser/blob/master/ExternalCredential.jpg "External Credential")
+     ![alt text](https://github.com/thedges/PDF-Form-Parser/blob/main/ExternalCredential.jpg "External Credential")
   8. That should be it.
      * Checkout the flow labled "Test PDF Form Parse" for an example of it's use. You will need to update the "contentDocId" to include a document id in your demo org.
      
