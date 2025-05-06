@@ -14,7 +14,7 @@
         <inputParameters>
             <name>contentDocumentId</name>
             <value>
-                <stringValue>069KY000006TdJgYAK</stringValue>
+                <elementReference>contentDocId</elementReference>
             </value>
         </inputParameters>
         <nameSegment>PS2PdfFormParserService</nameSegment>
@@ -71,6 +71,16 @@
         </connector>
     </start>
     <status>Draft</status>
+    <variables>
+        <name>contentDocId</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+        <value>
+            <stringValue>069KY000006TdJgYAK</stringValue>
+        </value>
+    </variables>
     <variables>
         <name>pdfJSONText</name>
         <dataType>String</dataType>

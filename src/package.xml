@@ -16,5 +16,9 @@
         <members>HerokuPDFFormUtils</members>
         <name>NamedCredential</name>
     </types>
+    <types>
+        <members>Heroku_PDF_Form_Utils</members>
+        <name>PermissionSet</name>
+    </types>
     <version>60.0</version>
 </Package>
