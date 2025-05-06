@@ -2,7 +2,7 @@
 
 THIS SOFTWARE IS COVERED BY [THIS DISCLAIMER](https://raw.githubusercontent.com/thedges/Disclaimer/master/disclaimer.txt).
 
-This package includes an Apex class that can be utilized at Flow Action to send a content document to a PDF form parser and get back results in JSON format.
+This package includes an Apex class that can be utilized as a Flow Action to send a content document to a PDF form parser and get back results in JSON format.
 
 # Installation Instructions
 
